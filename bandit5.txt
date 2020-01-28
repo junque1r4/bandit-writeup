@@ -1,0 +1,3 @@
+cd inhere
+file ./maybehere* -size 1033c
+key: DXjZPULLxYr17uwoI01bNLQbtFemEgo7 

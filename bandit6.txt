@@ -1,0 +1,5 @@
+file * -size 33c -group bandit -user bandit7
+
+some file are the right file, i don't remember what are
+
+key: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs

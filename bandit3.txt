@@ -1,0 +1,5 @@
+cd inhere
+ls -a // to show you what's inside
+cat .hidden
+
+key: pIwrPrtPN36QITSp3EQaw936yaFoFgAB

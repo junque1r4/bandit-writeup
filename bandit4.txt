@@ -1,0 +1,4 @@
+cd inhere
+file ./*
+
+key: koReBOKuIDDepwhWk7jZC0RTdopnAYKh

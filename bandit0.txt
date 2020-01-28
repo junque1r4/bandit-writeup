@@ -1,0 +1,3 @@
+ssh bandit0@bandit.labs.overthwire.org -p 2220
+
+key: boJ9jbbUNNfktd78OOpsqOltutMc3MY1

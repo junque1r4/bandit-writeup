@@ -1,0 +1,3 @@
+cat data.txt | sort | uniq -u
+
+key: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR

@@ -1,0 +1,3 @@
+echo data.txt | base64 -d
+
+key: IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
